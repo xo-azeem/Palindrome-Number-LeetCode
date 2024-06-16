@@ -20,7 +20,7 @@ My Solution Analysis:
 
 <div aling = "center>
 
-  ![image](https://github.com/xo-azeem/Palindrome-Number-LeetCode/assets/171427226/ab01b908-d1d6-418f-bc52-17eba6a646d7)
+![image](https://github.com/xo-azeem/Palindrome-Number-LeetCode/assets/171427226/b1800d9c-0410-4e8b-98f0-1d2200da75e5)
 
 Time Complexity: O(n).
 
